@@ -1,21 +1,15 @@
 ### Hi there 👋
 
-🌱I am studying for my master's degree in Jiangnan University in Wuxi
+I’m studying for my master's degree in Jiangnan University in Wuxi and major in CS
 
-I am good at C++, cuda programming and algorithm design
-I’m currently working on NetEase
-📫 How to reach me:
-<!--
-**AIhpJ/AIhpJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m good at C++, CUDA programming and algorithm design. 
 
-Here are some ideas to get you started:
+I’m currently learnin OCR, and trying hard to write leetcode🤔!!!
 
-- 🔭 I’m currently working on NetEase
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on NetEase.
+
+Fun fact😄: ...I’m also a guitar player. 
+
+📫 How to reach me: lebron_jhp@163.com 
+
+

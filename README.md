@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌱I am studying for my master's degree in Jiangnan University in Wuxi
+
+I am good at C++, cuda programming and algorithm design
+I’m currently working on NetEase
+📫 How to reach me:
 <!--
 **AIhpJ/AIhpJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

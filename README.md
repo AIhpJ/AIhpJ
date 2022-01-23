@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I’m studying for my master's degree in Jiangnan University in Wuxi and major in CS
+#HaiPeng Jiang
+
+master's degree in Jiangnan University
 
 I’m good at C++, CUDA programming and algorithm design. 
 
